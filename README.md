@@ -1,14 +1,29 @@
 # Hello, I'm Abhijit Palit
 <a href="https://linkedin.com/in/abhijit-palit-8b494237b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+An experienced IT Support Engineer transitioning into Cybersecurity with a strong foundation in troubleshooting, system administration, and user support. Currently focused on acquiring and applying practical skills in application security, vulnerability assessment, and secure software development practices. Passionate about leveraging extensive IT knowledge to enhance security posture and protect critical infrastructure.
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+What I Do:
+
+● Provide technical support and resolve complex IT issues with efficiency
+
+● Learn and apply cybersecurity principles including risk assessment and vulnerability management
+
+● Explore secure coding practices, API security, and container security scanning
+
+● Build knowledge in Windows security fundamentals and incident response
+
+Career Goals:
+
+To grow into a cybersecurity role that blends hands-on technical expertise with proactive threat detection and mitigation strategies.
+
+Get In Touch:
+
+Open to networking, mentoring, and collaboration opportunities in IT support and cybersecurity.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey, as a IT Support Engineer has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
@@ -48,11 +63,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<#img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<#img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<#img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<#img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
+<#img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
 ## Projects
