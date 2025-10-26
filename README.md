@@ -47,7 +47,18 @@ My journey, as a IT Support Engineer has led me to develop a passion for cyberse
     <img src="https://img.shields.io/badge/-tcpdump-005f73?style=for-the-badge&logo=wireshark&logoColor=white" alt="tcpdump badge" />
 </div>
 
-### practice Routing and Switching
+### Practice Routing and Switching
+<div>
+    <img src="https://img.shields.io/badge/-Packet%20Tracer-0078D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Packet Tracer badge" />
+    <img src="https://img.shields.io/badge/-EVE--NG-2C3E50?style=for-the-badge&logo=virtualbox&logoColor=white" alt="EVE-NG badge" />
+    <img src="https://img.shields.io/badge/-PNETLab-1F2937?style=for-the-badge&logo=linux&logoColor=white" alt="PNETLab badge" />
+</div>
+
+### virtualization
+<div>
+    <img src="https://img.shields.io/badge/-Vmware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="Vmware badge" />
+    <img src="https://img.shields.io/badge/-VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox badge" />
+</div>
 
 ### Endpoint
 <div>
