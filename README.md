@@ -85,5 +85,6 @@ My journey, as a IT Support Engineer has led me to develop a passion for cyberse
 </div>
 
 ## Projects
+- CCNA Project
 - Detection Lab
 - SOC Automation Project
