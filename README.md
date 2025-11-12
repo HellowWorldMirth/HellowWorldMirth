@@ -77,6 +77,10 @@ My journey, as a IT Support Engineer has led me to develop a passion for cyberse
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
+
+<img src="https://img.shields.io/badge/-NSE%201-EA1D25?&style=for-the-badge&logo=Fortinet&logoColor=white" />https://www.credly.com/badges/d58f585c-568a-4934-96ea-c5379a275cf2
+
+
 <#img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <#img src="https://img.shields.io/badge/-CEH-FF0000?&style=for-the-badge&logo=EC-Council&logoColor=white" />
 <#img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
