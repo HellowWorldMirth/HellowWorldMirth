@@ -31,12 +31,11 @@ My journey, as a IT Support Engineer has led me to develop a passion for cyberse
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | CCNA (Routing and Switching)          | <a href="https://github.com/HellowWorldMirth/CCNA-Project/tree/main">CCNA Project</a>|
-| Cyber security projects          | <a href="https://github.com/HellowWorldMirth/Cyber-security-projects">Cyber security projects</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Cyber security projects          | |
+| Securing the Perimeter: (Designing a secure Network Architecture, Building a secure Network Architecture in VMware, Continuous Monitoring with a SIEM, Zero Trust) | <a href="https://github.com/HellowWorldMirth/Cyber-security-projects">Cyber security projects</a>|
+| Security Assessment: (Integrating SDLC, Vulnerabilities and Remediation, Container Security, API Security) | <a href="https://github.com/HellowWorldMirth/Cyber-security-projects">Cyber security projects</a>|
+| Compliance Assessment: (Developing a Hardening Strategy, Create Security Policies, Self-Assessment, Cloud Management)      | <a href="https://github.com/HellowWorldMirth/Cyber-security-projects">Cyber security projects</a>|
+| Data Security Assessment: (Data Governance, Data Confidentiality, Data Integrity, Data Availability)                  | <a href="https://github.com/HellowWorldMirth/Cyber-security-projects">Cyber security projects</a> |
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
@@ -75,18 +74,8 @@ My journey, as a IT Support Engineer has led me to develop a passion for cyberse
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-
 <img src="https://img.shields.io/badge/-NSE%201-EA1D25?&style=for-the-badge&logo=Fortinet&logoColor=white" />https://www.credly.com/badges/d58f585c-568a-4934-96ea-c5379a275cf2
-
-
-<#img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<#img src="https://img.shields.io/badge/-CEH-FF0000?&style=for-the-badge&logo=EC-Council&logoColor=white" />
-<#img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<#img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<#img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<#img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
 ## Projects
