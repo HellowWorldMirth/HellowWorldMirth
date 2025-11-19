@@ -91,5 +91,5 @@ My journey, as a IT Support Engineer has led me to develop a passion for cyberse
 
 ## Projects
 - <a href="https://github.com/HellowWorldMirth/CCNA-Project/tree/main">CCNA Project</a>
-- Detection Lab
+- <a href="https://github.com/HellowWorldMirth/Cyber-security-projects">Cyber security projects</a>
 - SOC Automation Project
