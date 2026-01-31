@@ -35,7 +35,7 @@ My journey, as a IT Support Engineer has led me to develop a passion for cyberse
 | Security Assessment: (Integrating SDLC, Vulnerabilities and Remediation, Container Security, API Security) | <a href="https://github.com/HellowWorldMirth/Cyber-security-projects">Cyber security projects</a>|
 | Compliance Assessment: (Developing a Hardening Strategy, Create Security Policies, Self-Assessment, Cloud Management)      | <a href="https://github.com/HellowWorldMirth/Cyber-security-projects">Cyber security projects</a>|
 | Data Security Assessment: (Data Governance, Data Confidentiality, Data Integrity, Data Availability)                  | <a href="https://github.com/HellowWorldMirth/Cyber-security-projects">Cyber security projects</a> |
-| SOC Project          | <a href="https://github.com/HellowWorldMirth/CCNA-Project/tree/main">CCNA Project</a>|
+| SOC Project          | <a href="https://github.com/HellowWorldMirth/SOC-Project">SOC Project</a>|
 
 
 ## Tools
